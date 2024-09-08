@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kurs.AdminFileForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAMoEAAgACAAQAAYAACAUAQCQACAQAAQAABAAAAIAAA=</HashCode>
+      <FileName>AdminFileForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs.AdminMenuForm">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Kurs.AdminMenuForm.User" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AdminMenuForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAIIEADAUCSSBIgpAgCEYQACIoIEIQMlgA0ABBIgAAk=</HashCode>
+      <FileName>AdminMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs.AuthorizationForm">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIAAAAADEAAACEAAAAQIAgEAAAAAAAAA=</HashCode>
+      <FileName>AuthorizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs.FormLogo">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAQCAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>FormLogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs.OpenFileForm">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgEEAEAAACAAMAAYAACAAAYDgAAAAAQIIAAAAQAAAAA=</HashCode>
+      <FileName>OpenFileForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs.Program">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs.Students">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABEIGEhAACAAAAAIFACoBAQGQAABNQgkAwIAAACAgEE=</HashCode>
+      <FileName>Students.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kurs.UserForm">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIIAADAACSQBIAhAgCAQAACYoAEAAEMAAEABAIoAAA=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

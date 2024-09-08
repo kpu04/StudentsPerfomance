@@ -1,0 +1,65 @@
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.exe
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.deps.json
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.runtimeconfig.json
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.runtimeconfig.dev.json
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.dll
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.pdb
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.AssemblyReference.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.GenerateResource.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AssemblyInfoInputs.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AssemblyInfo.cs
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.CoreCompileInputs.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.dll
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.pdb
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.genruntimeconfig.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.FormLogo.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AdminFileForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AdminMenuForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AuthorizationForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.UserForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.exe
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.deps.json
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.runtimeconfig.json
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.runtimeconfig.dev.json
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.dll
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.pdb
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.AssemblyReference.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AdminFileForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AdminMenuForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AuthorizationForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.FormLogo.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.Students.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.UserForm.resources
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.GenerateResource.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AssemblyInfoInputs.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AssemblyInfo.cs
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.CoreCompileInputs.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.dll
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.pdb
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.genruntimeconfig.cache
+E:\УниверЛабы\Курсовая работа ОАИПР\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.OpenFileForm.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.exe
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.deps.json
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.runtimeconfig.json
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.runtimeconfig.dev.json
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.dll
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\bin\Debug\netcoreapp3.1\Kurs.pdb
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.AssemblyReference.cache
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AdminFileForm.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AdminMenuForm.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AuthorizationForm.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.FormLogo.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.OpenFileForm.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.Students.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.UserForm.resources
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.GenerateResource.cache
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AssemblyInfoInputs.cache
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.AssemblyInfo.cs
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.csproj.CoreCompileInputs.cache
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.dll
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.pdb
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.genruntimeconfig.cache
+E:\ОАиПр\Kurs\Kurs\Kurs\Kurs\obj\Debug\netcoreapp3.1\Kurs.Properties.Resources.resources

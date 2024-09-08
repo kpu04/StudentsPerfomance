@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jV5iV9vSbAFImsew+oXIe0oZjGS428O7aT6tiUNaaRpUeAJhK1waSlknWEsllqxv1PBwkRN9+yUCCKQPK+RAEA==",
+  "success": true,
+  "projectFilePath": "E:\\ОАиПр\\Kurs\\Kurs\\Kurs\\Kurs\\Kurs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuren\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kuren\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
